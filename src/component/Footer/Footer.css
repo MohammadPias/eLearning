@@ -1,0 +1,15 @@
+.footer-container{
+    background-color: #474a54;
+    color: white;
+    border-bottom: 1px solid lightgray;
+    
+}
+.footer-nav a{
+   text-decoration: none;
+   color: white;
+}
+.font-style{
+    color: white;
+    font-size: 25px;
+    margin: 10px;
+}

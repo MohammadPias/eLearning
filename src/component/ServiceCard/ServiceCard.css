@@ -1,0 +1,10 @@
+.bg-custom{
+    background-color: #f0f1f5;
+    border-radius: 0 0 15px 15px;
+}
+.custom-card img{
+    height: 150px;
+    object-fit: cover;
+    object-position: center center;
+    border-radius: 15px 15px 0 0;
+}
